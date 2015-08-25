@@ -1,9 +1,15 @@
 {
   "name": "request-when",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Request + WhenJS",
   "main": "request-when.js",
-  "keywords": ["request", "when", "promise", "ajax", "http"],
+  "keywords": [
+    "request",
+    "when",
+    "promise",
+    "ajax",
+    "http"
+  ],
   "scripts": {},
   "repository": {
     "type": "git",
