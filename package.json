@@ -1,6 +1,6 @@
 {
   "name": "request-when",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Request + WhenJS",
   "main": "request-when.js",
   "scripts": {},
