@@ -1,0 +1,21 @@
+{
+  "name": "request-when",
+  "version": "0.0.9",
+  "description": "Request + WhenJS",
+  "main": "request-when.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FGRibreau/request-when.git"
+  },
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FGRibreau/request-when/issues"
+  },
+  "homepage": "https://github.com/FGRibreau/request-when",
+  "dependencies": {
+    "requestretry": "1.x.x",
+    "when": "3.x.x"
+  }
+}
